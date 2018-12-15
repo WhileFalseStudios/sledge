@@ -38,6 +38,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sledge.BspEditor.Tools", "S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sledge.BspEditor.Editing", "Sledge.BspEditor.Editing\Sledge.BspEditor.Editing.csproj", "{D33E1027-1956-44C4-B920-85281F703704}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sledge.Plugins", "Sledge.Plugins\Sledge.Plugins.csproj", "{C0549781-BC74-4CCB-AF00-468B390FFA0F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug (Extra)|Any CPU = Debug (Extra)|Any CPU
@@ -280,6 +282,24 @@ Global
 		{D33E1027-1956-44C4-B920-85281F703704}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{D33E1027-1956-44C4-B920-85281F703704}.Release|x86.ActiveCfg = Release|Any CPU
 		{D33E1027-1956-44C4-B920-85281F703704}.Release|x86.Build.0 = Release|Any CPU
+		{C0549781-BC74-4CCB-AF00-468B390FFA0F}.Debug (Extra)|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0549781-BC74-4CCB-AF00-468B390FFA0F}.Debug (Extra)|Any CPU.Build.0 = Debug|Any CPU
+		{C0549781-BC74-4CCB-AF00-468B390FFA0F}.Debug (Extra)|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{C0549781-BC74-4CCB-AF00-468B390FFA0F}.Debug (Extra)|Mixed Platforms.Build.0 = Debug|Any CPU
+		{C0549781-BC74-4CCB-AF00-468B390FFA0F}.Debug (Extra)|x86.ActiveCfg = Debug|Any CPU
+		{C0549781-BC74-4CCB-AF00-468B390FFA0F}.Debug (Extra)|x86.Build.0 = Debug|Any CPU
+		{C0549781-BC74-4CCB-AF00-468B390FFA0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0549781-BC74-4CCB-AF00-468B390FFA0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0549781-BC74-4CCB-AF00-468B390FFA0F}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{C0549781-BC74-4CCB-AF00-468B390FFA0F}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{C0549781-BC74-4CCB-AF00-468B390FFA0F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C0549781-BC74-4CCB-AF00-468B390FFA0F}.Debug|x86.Build.0 = Debug|Any CPU
+		{C0549781-BC74-4CCB-AF00-468B390FFA0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0549781-BC74-4CCB-AF00-468B390FFA0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0549781-BC74-4CCB-AF00-468B390FFA0F}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{C0549781-BC74-4CCB-AF00-468B390FFA0F}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{C0549781-BC74-4CCB-AF00-468B390FFA0F}.Release|x86.ActiveCfg = Release|Any CPU
+		{C0549781-BC74-4CCB-AF00-468B390FFA0F}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

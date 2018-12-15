@@ -1,0 +1,3 @@
+- Move to a plugin system?
+- Engine-specific providers and environment
+- Remove GoldSrc (or move it into a plugin)
